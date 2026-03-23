@@ -78,3 +78,9 @@ The implementation demonstrates how operating systems manage processes and how u
 - How to handle signals and control process execution
 - How pipes enable inter-process communication
 - How to build interactive systems using low-level OS primitives
+
+## Contribution
+
+This project was developed independently as part of an Operating Systems course.
+
+I designed, implemented, tested, and debugged all components of the system.
